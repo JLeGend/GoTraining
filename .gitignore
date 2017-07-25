@@ -24,7 +24,7 @@ _testmain.go
 *.prof
 
 # WebStorm
-*.iml
+01_helloWorld/.idea/01_helloWorld.iml
 
 # Directory-based project format:
 .idea/
@@ -48,4 +48,4 @@ builds/**/images/*
 
 # security / ssl
 *.pem
-*.xxjson
+*.xxjson.idea
